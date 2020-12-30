@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/TAWFIQ $/CLionProjects/datastructure/main.cpp
+iostream
+-
+queueArray.cpp
+C:/Users/TAWFIQ $/CLionProjects/datastructure/queueArray.cpp
+
+C:/Users/TAWFIQ $/CLionProjects/datastructure/mergeSortBookModel.cpp
+iostream
+-
+vector
+-
+
+C:/Users/TAWFIQ $/CLionProjects/datastructure/priorityQueue.cpp
+
+C:/Users/TAWFIQ $/CLionProjects/datastructure/queueArray.cpp
+iostream
+-
+
